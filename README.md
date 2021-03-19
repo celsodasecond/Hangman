@@ -1,6 +1,4 @@
 "# Hangman" 
 
-This is a test
-
-again
-again
+This is my first Repository.
+I am just practicing how to use gitHub.
